@@ -1,5 +1,8 @@
 _repo: A-Sharper-s-Downfall-Or-Into-the-Net_66718
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66718-h/images/cover.jpg
 creator:
   author:
     agent_name: Carter, Nicholas (House name)
@@ -11,6 +14,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/2983
     - http://www.gutenberg.org/ebooks/author/1599
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66718#A-Sharper-s-Downfall-Or-Into-the-Net
 gutenberg_issued: '2021-11-12'
 identifiers:
   gutenberg: '66718'
